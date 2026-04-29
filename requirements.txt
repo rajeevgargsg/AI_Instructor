@@ -1,0 +1,4 @@
+groq>=0.9.0
+gradio>=4.44.0
+reportlab>=4.0.0
+pdfplumber>=0.10.0
